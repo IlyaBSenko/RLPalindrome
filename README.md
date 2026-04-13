@@ -1,6 +1,6 @@
 # RLPalindrome
-## Ever wondered how many palindromes exist in the rocket league scoreboard / timer?
-## Well we can write code to find out
+### Ever wondered how many palindromes exist in the rocket league scoreboard / timer?
+### Well we can write code to find out
 
 ### This is a fun problem because this number is most often an odd number
 ### The number takes the form of team1 + minute + seconds(2 digits) + team2
