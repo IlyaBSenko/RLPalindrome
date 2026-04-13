@@ -1,10 +1,10 @@
 # RLPalindrome
 ### Ever wondered how many palindromes exist in the rocket league scoreboard / timer?
-### Well we can write code to find out
+#### Well we can write code to find out
 
-### This is a fun problem because this number is most often an odd number
-### The number takes the form of team1 + minute + seconds(2 digits) + team2
-### where team1, team2 are 0-9 and the timer counts m:ss with seconds 0-59.
+#### This is a fun problem because this number is most often an odd number
+#### The number takes the form of team1 + minute + seconds(2 digits) + team2
+#### where team1, team2 are 0-9 and the timer counts m:ss with seconds 0-59.
 
 
 #### Since we know that the 1st and last number will be 0 - 9
