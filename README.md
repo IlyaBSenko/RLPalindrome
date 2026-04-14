@@ -54,3 +54,18 @@ print(f"Found {len(palindromes)} palindromes")
 #### This is fun to figure out as if you consistently play rocket league enough
 #### you will notice that the scoreboard / timer is often a palindrome
 #### more then you would think
+##### If you want to see the specific palindromes
+##### Loop through the palindromes list and print each one
+```python
+for p in palindromes:
+    print(p)
+    time.sleep(.005)
+```
+##### Then just import time at the top and you'll get a result like this:
+00000
+00100
+00200
+00300
+00400
+00500
+01010
