@@ -15,7 +15,7 @@ for team1 in range(10):
 ```
 
 #### The middle number is a little tricky but uses the same logic
-#### We write a number nested for loop inside the first, but with minutes for the first number 
+#### We write a nested for loop inside the first, but with minutes for the first number 
 #### and seconds as the second and third number
 
 ```python
@@ -51,3 +51,6 @@ for team1 in range(10):
 print(f"Found {len(palindromes)} palindromes")
 ```
 
+#### This is fun to figure out as if you consistently play rocket league enough
+#### you will notice that the scoreboard / timer is often a palindrome
+#### more then you would think
