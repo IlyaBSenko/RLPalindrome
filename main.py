@@ -1,4 +1,4 @@
-# import time
+import time
 
 palindromes = []
 
@@ -16,8 +16,8 @@ for team1 in range(10):                # 0-9
 print(f"Found {len(palindromes)} palindromes")
 
 # if you want to see the specific palindromes
-# for p in palindromes:
-    # print(p)
-    # time.sleep(.005)
+for p in palindromes:
+    print(p)
+    time.sleep(.005)
     # then just import time at the top
 
